@@ -14,7 +14,7 @@
     la création de couches convolutives de neurones (CNN), la résolution de problèmes d'over-fitting, et bien d'autres.
 </p>
 
-## Langages:
+## Langages :
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,py,ocaml,mysql,matlab,rust)
 
@@ -23,8 +23,10 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,kali,github,sklearn,tensorflow,linux,ubuntu&perline=5)
 
 
- ## Contact:
+ ## Contact :
 
  - <a href="https://www.linkedin.com/in/maxence-delehelle-66a205327">LinkedIn</a><br>
 
- - maxence.delehelle@protonmail.com
+ - Adresse mail personnelle :maxence.delehelle@protonmail.com
+
+ - Adresse mail professionnelle : maxence.delehelle@edu.esiee.fr
