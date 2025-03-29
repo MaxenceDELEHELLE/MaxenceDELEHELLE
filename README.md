@@ -3,6 +3,9 @@
 
 <h3 align="center">Passionné par le monde de la finance et de l'investissement</h3>
 
+<p align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" alt="Stock Market" width="80" height="80"/>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
