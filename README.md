@@ -1,7 +1,7 @@
 <h1 align="center">Maxence DELEHELLE</h1>
 <h3 align="center">Élève ingénieur à ESIEE Paris</h3>
 
----
+<hr size="1">
 
 <h3 align="center">Passionné par le monde de la finance et de l'investissement</h3>
 
@@ -10,10 +10,10 @@
          alt="Stock Market Up" width="200" height="150"/>
 </p>
 
----
+<hr size="1">
 
 <h3 align="left">Languages and Tools:</h3>
-<hr>
+<hr size="1">
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" 
@@ -53,11 +53,11 @@
     </a>
 </p>
 
----
+<hr size="1">
 
 <h3 align="left">Contact:</h3>
-<hr>
+<hr size="1">
 <p align="left">
     - Email: <a href="maxence.delehelle@protonmail.com">maxence.delehelle@protonmail.com</a><br>
-    - LinkedIn: <a href="https://www.linkedin.com/in/maxence-delehelle-66a205327">Mon LinkedIn</a><br>
+    - LinkedIn: <a href="https://www.linkedin.com/in/maxence-delehelle-66a205327">LinkedIn</a><br>
 </p>
