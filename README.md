@@ -8,6 +8,13 @@
          alt="Stock Market Up" width="200" height="150"/>
 </p>
 
+<p align="center" style="font-size: 14px; color: #666;">
+    Étudiant en ingénierie avec un fort intérêt pour les marchés financiers, 
+    l'analyse quantitative et le développement logiciel. Je combine mes compétences 
+    en programmation et en data science pour explorer des stratégies d'investissement 
+    et l'automatisation des processus financiers.
+</p>
+
 ## Langages:
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,py,ocaml,mysql,matlab,rust)
