@@ -58,6 +58,6 @@
 <h3 align="left">Contact:</h3>
 <hr>
 <p align="left">
-    - Email: <a href="maxence.delehelle@protonmail.com">ton.email@example.com</a><br>
+    - Email: <a href="maxence.delehelle@protonmail.com">maxence.delehelle@protonmail.com</a><br>
     - LinkedIn: <a href="https://www.linkedin.com/in/maxence-delehelle-66a205327">Mon LinkedIn</a><br>
 </p>
