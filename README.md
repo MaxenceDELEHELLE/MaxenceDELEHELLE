@@ -1,11 +1,7 @@
-<h1 align="center">Ton Nom</h1>
+<h1 align="center">Maxence DELEHELLE</h1>
 
 <h3 align="center">Passionné par le monde de la finance et de l'investissement</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <!-- Ajoute tes liens ici si tu veux -->
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
