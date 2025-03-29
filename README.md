@@ -4,7 +4,7 @@
 <h3 align="center">Passionné par le monde de la finance et de l'investissement</h3>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnI1Nmpkd2drZXNocGFsaG1ud3VhMGF1OGhsNWFrMnVpMGk5NGM4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" 
+    <img src="https://media.giphy.com/media/QzfpX8hZkhXwO/giphy.gif" 
          alt="Stock Market Up" width="150" height="150"/>
 </p>
 
