@@ -10,7 +10,7 @@
 
 ## Langages:
 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,py,ocaml,mysql,matlab,r)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,py,ocaml,mysql,matlab,rust)
 
 ## Outils:
 
