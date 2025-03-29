@@ -1,8 +1,6 @@
 <h1 align="center">Maxence DELEHELLE</h1>
 <h3 align="center">Élève ingénieur à ESIEE Paris</h3>
 
-<hr size="1">
-
 <h3 align="center">Passionné par le monde de la finance et de l'investissement</h3>
 
 <p align="center">
