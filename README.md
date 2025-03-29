@@ -27,6 +27,6 @@
 
  - <a href="https://www.linkedin.com/in/maxence-delehelle-66a205327">LinkedIn</a><br>
 
- - Adresse mail personnelle :maxence.delehelle@protonmail.com
+ - Adresse mail personnelle : maxence.delehelle@protonmail.com
 
  - Adresse mail professionnelle : maxence.delehelle@edu.esiee.fr
