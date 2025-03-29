@@ -14,7 +14,7 @@
 
 ## Outils:
 
-![My Skills](https://skillicons.dev/icons?i=vscode,kali,github,linux&perline=5)
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,kali,github,sklearn,tensorflow,linux,ubuntu&perline=5)
 
 
  ## Contact:
