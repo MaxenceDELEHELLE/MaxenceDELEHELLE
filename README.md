@@ -23,4 +23,4 @@
 
  - <a href="https://www.linkedin.com/in/maxence-delehelle-66a205327">LinkedIn</a><br>
 
- - Mail : maxence.delehelle@protonmail.com
+ - maxence.delehelle@protonmail.com
