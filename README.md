@@ -4,7 +4,7 @@
 <h3 align="center">Passionné par le monde de la finance et de l'investissement</h3>
 
 <p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXN4dDM2b2YwZ2xrdWZ5enBqbzZlamJ2ZHQ3MjhkYjlzNjQ0MjA1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ztah2Jo4BQReDIs/giphy.gif" 
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmp0M2drY3psdmx0eXMxd3AwdGxlcnB4bnFwMzVrYWZpaG0zMXl4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JtBZm3Getg3dqxK0zP/giphy.gif" 
          alt="Stock Market Up" width="200" height="150"/>
 </p>
 
