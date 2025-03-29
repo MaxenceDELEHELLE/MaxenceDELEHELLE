@@ -1,4 +1,4 @@
-<h3 align="center">Passioné par le monde de la finance et de l'investissement</h3>
+<h3 align="center">Passionné par le monde de la finance et de l'investissement</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
