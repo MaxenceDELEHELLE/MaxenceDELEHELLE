@@ -9,7 +9,9 @@
 </p>
 
 <p align="center" style="font-size: 14px; color: #666;">
-    Actuellement étudiant en école d'ingénieur à ESIEE Paris, vous retrouverez ici tous mes projets, qu'ils soient personnels ou scolaires.
+    Vous retrouverez ici tous mes projets, qu'ils soient personnels ou scolaires. La plupart d'entre eux portent sur des algorithmes de calcul de risques sur
+    les marchés financiers, alliant scrappig de données, Machine-Learning et mathématiques. Certains projets sont uniquement focalisés sur le Machine-Learning, avec
+    la création de couches convolutives de neurones (CNN), la résolution de problèmes d'over-fitting, et bien d'autres.
 </p>
 
 ## Langages:
