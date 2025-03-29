@@ -4,7 +4,7 @@
 <h3 align="center">Passionné par l'analyse financière</h3>
 
 <p align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZzaG52NGVnZzhudTJiOWUybGR1eHA5NTNjanl2dWR6ZjIzMGpxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDE4UjuhQSWh0GiHQZ/giphy.gif"
+    <img src="https://tenor.com/bZjSF.gif"
          alt="Stock Market Up" width="200" height="150"/>
 </p>
 
