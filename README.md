@@ -1,7 +1,7 @@
 <h1 align="center">Maxence DELEHELLE</h1>
 <h3 align="center">Élève ingénieur à ESIEE Paris</h3>
 
-<h3 align="center">Passionné par le monde de la finance et de l'investissement</h3>
+<h3 align="center">Passionné par l'analyse financière</h3>
 
 <p align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZzaG52NGVnZzhudTJiOWUybGR1eHA5NTNjanl2dWR6ZjIzMGpxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDE4UjuhQSWh0GiHQZ/giphy.gif"
@@ -9,10 +9,7 @@
 </p>
 
 <p align="center" style="font-size: 14px; color: #666;">
-    Étudiant en ingénierie avec un fort intérêt pour les marchés financiers, 
-    l'analyse quantitative et le développement logiciel. Je combine mes compétences 
-    en programmation et en data science pour explorer des stratégies d'investissement 
-    et l'automatisation des processus financiers.
+    Actuellement étudiant en école d'ingénieur à ESIEE Paris, vous retrouverez ici tous mes projets, qu'ils soient personnels ou scolaires.
 </p>
 
 ## Langages:
