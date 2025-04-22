@@ -1,7 +1,7 @@
 <h1 align="center">Maxence DELEHELLE</h1>
 <h3 align="center">Élève ingénieur à ESIEE Paris</h3>
 
-<h3 align="center">Passionné par l'analyse financière</h3>
+<h3 align="center">Passionné par l'analyse financière et la recherche quantitative</h3>
 
 <p align="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGMxcDE5bnpuZzl0NWk0cTN5ZHU2bmRpbWt0Y3V0aXUzaDhoOTkxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfLjkhN3IDYFOZFALi/giphy.gif"
