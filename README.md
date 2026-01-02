@@ -1,5 +1,6 @@
 <h1 align="center">Maxence DELEHELLE</h1>
 <h3 align="center">Élève ingénieur à ESIEE Paris</h3>
+<h3 align="center">Alternant BNP Paribas Asset Management</h3>
 
 <h3 align="center">Passionné par l'analyse financière et la recherche quantitative</h3>
 
