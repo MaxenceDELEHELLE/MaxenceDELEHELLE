@@ -7,10 +7,10 @@
          alt="Stock Market Up" width="200" height="150"/>
 </p>
 
+<p align="center">
+    <img src="assets/chatcontrol.jpg" alt="Stop Chat Control" width="100%"/>
+</p>
+
 ## Langages :
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,py)
-
-<p align="center"> 
-    <img src="assets/chatcontrol.jpg" alt="Stop Chat Control" width="100%"/>
-</p>
