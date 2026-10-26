@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="assets/stopchatcontrol.jpg" alt="Stop Chat Control" width="100%"/>
+    <img src="assets/stopchatcontrol1.png" alt="Stop Chat Control" width="100%"/>
 </p>
 
 ## Langages :
