@@ -10,3 +10,7 @@
 ## Langages :
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,py)
+
+<p align="center">
+    <img src="assets/chatcontrol.jpg" alt="Stop Chat Control" width="100%"/>
+</p>
